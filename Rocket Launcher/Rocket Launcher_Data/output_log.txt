@@ -1,0 +1,71 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     32 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+desktop: 1366x768 60Hz; virtual: 2806x916 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 9.865238 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 181.
+Total: 2.131191 ms (FindLiveObjects: 0.029004 ms CreateObjectMapping: 0.026773 ms MarkObjects: 0.390004 ms  DeleteObjects: 0.050423 ms)
+
+UnloadTime: 4.689424 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 160.
+Total: 2.089245 ms (FindLiveObjects: 0.024988 ms CreateObjectMapping: 0.025435 ms MarkObjects: 0.345827 ms  DeleteObjects: 0.129406 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 0.856314 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 1.238732 ms (FindLiveObjects: 0.016064 ms CreateObjectMapping: 0.011155 ms MarkObjects: 0.173136 ms  DeleteObjects: 0.414547 ms)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at Clima.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 1.892904 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 1.950022 ms (FindLiveObjects: 0.187862 ms CreateObjectMapping: 0.046854 ms MarkObjects: 0.440428 ms  DeleteObjects: 0.223560 ms)
+
+Platform assembly: C:\Users\Elfico\Documents\Rocket Launcher\Rocket Launcher_Data\Managed\Boo.Lang.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 8.682283 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 510 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 7.613119 ms (FindLiveObjects: 0.032574 ms CreateObjectMapping: 0.022311 ms MarkObjects: 0.324854 ms  DeleteObjects: 6.566711 ms)
+
